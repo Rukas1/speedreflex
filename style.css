@@ -35,7 +35,7 @@ html, body {
 
 body {
     background-color: #d8d8d8;
-    background-image: url('./ressources/back.jpg');
+    background-image: url('./back.jpg');
     font-family: var(--default-font-fam);
     color: var(--font-color-general-text);
     background-size: contain;
